@@ -1,0 +1,10 @@
+.Bienvenida {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Bienvenida h1 {
+  font-size: 40px;
+}
